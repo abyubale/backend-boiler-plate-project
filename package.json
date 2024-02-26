@@ -1,0 +1,23 @@
+{
+  "name": "backend-boiler-plate-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abyubale/backend-boiler-plate-project.git"
+  },
+  "author": "abhay ubale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abyubale/backend-boiler-plate-project/issues"
+  },
+  "homepage": "https://github.com/abyubale/backend-boiler-plate-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
